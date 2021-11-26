@@ -12,7 +12,7 @@
       "go-to-line:toggle"
     ]
   },
-  "repository": "https://github.com/atom/go-to-line",
+  "repository": "https://github.com/AkzidenzGrotesk-py/go-to-line-plus",
   "engines": {
     "atom": "*"
   },
